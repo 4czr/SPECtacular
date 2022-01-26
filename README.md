@@ -4,7 +4,9 @@ SPECtacular is a tool created to obtain the specifications of your PC in a nice 
 ![SPECtacular Preview](spectacular.gif)
 
 Twitter @_Ozz
+
 Github 4czr
+
 Email ozz@riseup.net
 
 # Version
