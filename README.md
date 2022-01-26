@@ -12,7 +12,7 @@ Email ozz@riseup.net
 # Version
 SPECtacular is currently in version **0.1**
 
-#What's To Come?
+# What's To Come?
 - Detailed/Advanced View for a lot more system information
 - May re-do the GUI
 - More...
